@@ -1,9 +1,8 @@
 # Storybook Demo
 
-Out-of-the-box Storybook right after install
+Out-of-the-box Storybook – right after install
 
 ![Screenshot](assets/screenshot.png)
-
 
 ## Development Build
 
