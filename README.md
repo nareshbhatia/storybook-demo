@@ -1,8 +1,11 @@
 # Storybook Demo
 
-This project shows Storybook after an immediate install using `pnpm create storybook@latest`.
+Out-of-the-box Storybook right after install
 
-To run:
+![Screenshot](assets/screenshot.png)
+
+
+## Development Build
 
 ```shell
 pnpm i
