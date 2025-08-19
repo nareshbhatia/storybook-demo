@@ -2,7 +2,7 @@
 
 Out-of-the-box Storybook – right after install
 
-![Screenshot](assets/screenshot.png)
+![Light Theme](assets/light-theme.png)
 
 ## Development Build
 
